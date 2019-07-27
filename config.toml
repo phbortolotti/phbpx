@@ -1,4 +1,4 @@
-baseURL = "https://phbpx.com/"
+baseURL = "http://phbpx.com/"
 languageCode = "pt"
 title = "PhBPx"
 theme = "m10c"
