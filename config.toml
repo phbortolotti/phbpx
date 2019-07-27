@@ -1,0 +1,16 @@
+baseURL = "https://phbpx.com/"
+languageCode = "pt"
+title = "PhBPx"
+theme = "m10c"
+paginate = 5
+
+[params]
+  author = "Paulo Bortolotti"
+  avatar = "images/avatar.png"
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/phbortolotti"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/pbortolotti/"
